@@ -1,6 +1,6 @@
-import React, { Fragment } from 'react';
+import React from 'react';
 import { Link } from 'react-router-dom';
-import { Menu, Transition } from '@headlessui/react';
+import { Menu } from '@headlessui/react';
 
 const Navigation = () => {
   return (
