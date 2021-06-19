@@ -50,6 +50,7 @@ const Products = () => {
     for (let i = 0; i < 5; i++) {
       fillState();
     }
+    // eslint-disable-next-line
   }, []);
 
   return (
